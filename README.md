@@ -2,6 +2,27 @@
 
 2023/11/03 ~ 2024/04/03 (about 6 months)        
 
+<table style="margin-left: auto; margin-right: auto;">
+  <th>
+    <p align='center'>Input</p>
+  </th>
+  <th>
+    <p align='center'>Output</p>
+  </th>
+  <tr>
+    <td>
+      <p align='center'>
+        <img src='https://silkycontents.s3.ap-northeast-2.amazonaws.com/media/face/pid_tjcowns@gmail.com/2024/13/56/KakaoTalk.Testinput.20240208_205531902_05.jpg' height='400'>
+      <p>
+    </td>
+    <td>
+      <p align='center'>
+        <img src='https://github.com/WestChaeVI/Face_Skin_AI/test_output_overall.png' width='500'>
+      <p>
+    </td>
+  </tr>
+</table>   
+
 --------------------------       
 
 
