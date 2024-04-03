@@ -2,7 +2,9 @@
 
 2023/11/03 ~ 2024/04/03 (about 6 months)        
 
-<table style="margin-left: auto; margin-right: auto;">
+### Demo Version Sample       
+
+<table align='center' style="margin-left: auto; margin-right: auto;">
   <th>
     <p align='center'>Input</p>
   </th>
@@ -17,7 +19,7 @@
     </td>
     <td>
       <p align='center'>
-        <img src='https://github.com/WestChaeVI/Face_Skin_AI/test_output_overall.png' width='500'>
+        <img src='https://github.com/WestChaeVI/Face_Skin_AI/blob/main/test_output_overall.png' height='400'>
       <p>
     </td>
   </tr>
