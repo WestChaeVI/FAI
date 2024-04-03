@@ -1,0 +1,26 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyter = "*"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
+fastai = "==1.0.61"
+fastapi = "*"
+uvicorn = {extras = ["standard"], version = "*"}
+boto3 = "*"
+python-dotenv = "*"
+python-multipart = "*"
+opencv-python = "*"
+mediapipe = "==0.10.9"
+ultralytics = "==8.0.232"
+shapely = "==2.0.3"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
+python_full_version = "3.11.3"
