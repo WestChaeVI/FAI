@@ -1,3 +1,12 @@
+# Face Skin AI (outsourcing project)       
+
+2023/11/03 ~ 2024/04/03 (about 6 months)        
+
+--------------------------       
+
+
+
+
 # 피부 분석 AI 모델 "Silky" Demo Version     
 
 ## Dataset : [Skin Problem Image Segmentation](https://universe.roboflow.com/hetvi-eww-zdjt2/skin-problem-image-segmentation/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)      
@@ -91,7 +100,7 @@ Demo Version [Notebook](https://github.com/eoncare-dev/silky-ai/blob/main/eonc/b
 
 + 백분율(%) 계산 (소수점 둘째 자리까지)     
 
-$$\frac{\text{mask의 해당 객체 픽셀 개수}}{\text{전체 이미지의 픽셀 개수}} \ \text{x} \ 100 \  $$     
+$$\frac{\text{mask의 해당 객체 픽셀 개수}}{\text{얼굴 영역의 픽셀 개수}} \ \text{x} \ 100 \  $$     
 
 
 ------------------------------------------------------------------------------------------------
