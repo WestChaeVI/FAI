@@ -1,6 +1,8 @@
 # Face Skin AI (outsourcing project)       
 
-2023/11/03 ~ 2024/04/03 (about 6 months)        
+**2023/11/03 ~ 2024/04/03 (about 6 months)**        
+
+Outsourcing project with startup company [eoncare](http://www.eoncare.org) (face skin analysis for using deep learning models)      
 
 ### Demo Version Sample       
 
