@@ -150,6 +150,27 @@ $$\frac{\text{mask의 해당 객체 픽셀 개수}}{\text{얼굴 영역의 픽�
 
 ## Skin texture - Mesh grid landmark [Code](https://github.com/eoncare-dev/silky-ai/blob/main/eonc/Codes/skin_texture.py)      
 
+<table align='center' style="margin-left: auto; margin-right: auto;">
+  <th>
+    <p align='center'>Face Landmark</p>
+  </th>
+  <th>
+    <p align='center'>Connecting Landmarks</p>
+  </th>
+  <tr>
+    <td>
+      <p align='center'>
+        <img src='https://github.com/WestChaeVI/Face_Skin_AI/assets/104747868/fd5d8724-3bcc-422b-b902-0ee83ce25442' height='400'>
+      <p>
+    </td>
+    <td>
+      <p align='center'>
+        <img src='https://github.com/WestChaeVI/Face_Skin_AI/assets/104747868/b0d1427e-b029-4775-8aeb-ebc51ed8a33a' height='400'>
+      <p>
+    </td>
+  </tr>
+</table>         
+
 + MediaPipe library를 사용해 mesh grid를 형성할 수 있었음.  
 + Steps     
  > 1. Mediapipe library를 사용하여 얼굴 부분에 mesh grid를 형성     
